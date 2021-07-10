@@ -1,6 +1,9 @@
 # **_Olá me chamo Herberth_**
 
 ### Connect with me:
+<div>
+    <a href="https://www.youtube.com/channel/UCpKC6cfaRhoKr2k966yCf1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -23,9 +26,11 @@
 ---
 
 
-<summary>:zap: GitHub Stats</summary>
+<div>
+    <img align="left" alt="GitHub Stats" src="https:/github-readme-stats.codestackr.vercel.app/api?username=sm7f_icons=true&hide_border=true" />
+</div>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https:/github-readme-stats.codestackr.vercel.app/api?username=codeSTACKrshow_icons=true&hide_border=true" />
+
 
 
 [twitter]: https://twitter.com/home
