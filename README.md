@@ -1,5 +1,7 @@
 # **_Olá me chamo Herberth_**
-
+<div>
+    <a href=https://github.com/sm7f>
+</div>
 ### Connect with me:
 <div>
     <a href="https://www.youtube.com/channel/UCpKC6cfaRhoKr2k966yCf1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
@@ -16,14 +18,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
 <br />
 <br />
-
 ---
-
-
 <div>
     <img align="left" alt="GitHub Stats" src="https:/github-readme-stats.codestackr.vercel.app/api?username=sm7f_icons=true&hide_border=true" />
 </div>
