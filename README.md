@@ -1,7 +1,8 @@
 # **_Olá me chamo Herberth_**
 <div>
-    <a href=https://github.com/sm7f>
+    <a href=https://github.com/sm7f></a>
 </div>
+
 ### Connect with me:
 <div>
     <a href="https://www.youtube.com/channel/UCpKC6cfaRhoKr2k966yCf1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
