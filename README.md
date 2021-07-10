@@ -2,15 +2,13 @@
 
 ### Connect with me:
 <div>
-    <a href="https://www.youtube.com/channel/UCpKC6cfaRhoKr2k966yCf1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UCpKC6cfaRhoKr2k966yCf1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.instagram.com/heberthamorim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://www.linkedin.com/in/herberth-amorim-6883321a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://twitter.com/home" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -29,11 +27,3 @@
 <div>
     <img align="left" alt="GitHub Stats" src="https:/github-readme-stats.codestackr.vercel.app/api?username=sm7f_icons=true&hide_border=true" />
 </div>
-
-
-
-
-[twitter]: https://twitter.com/home
-[youtube]: https://www.youtube.com/channel/UCpKC6cfaRhoKr2k966yCf1w
-[instagram]: https://www.instagram.com/heberthamorim/
-[linkedin]: https://www.linkedin.com/in/herberth-amorim-6883321a0/
