@@ -2,7 +2,7 @@
 <div>
     <a href=https://github.com/sm7f>
     <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&langs_count=8)](https://github.com/sm7f/github-readme-stats)"/>
->
+
 </div>
 <div>
 
