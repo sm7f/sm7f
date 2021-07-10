@@ -37,21 +37,11 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+<summary>:zap: GitHub Stats</summary>
 
-</details>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https:/github-readme-stats.codestackr.vercel.app/api?username=codeSTACKrshow_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
