@@ -1,7 +1,7 @@
 # **_Olá me chamo Herberth_**
 <div>
     <a href=https://github.com/sm7f>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&langs_count=8&?theme=chartreuse-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&langs_count=8&?theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
 </div>
 <div>
