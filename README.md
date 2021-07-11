@@ -1,7 +1,7 @@
 # **_Olá me chamo Herberth_**
 <div>
     <a href=https://github.com/sm7f>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?sm7f=anuraghazra&repo=github-readme-stats" />
+    <img botton="50px" src="https://github-readme-stats.vercel.app/api/pin/?username=sm7f&repo=github-readme-stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
 </div>
