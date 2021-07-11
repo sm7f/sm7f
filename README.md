@@ -1,5 +1,6 @@
 <div>
-    <iframe aling="center" src="https://giphy.com/embed/WDZBrmwNjm5g8qsl1F" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+    <img align="center" width="480" height="266" allowFullScreen src="https://giphy.com/embed/WDZBrmwNjm5g8qsl1F">
+    
 </div>
 
 # **_Olá me chamo Herberth_**
