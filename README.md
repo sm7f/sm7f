@@ -1,5 +1,5 @@
 <div>
-    <img align="center" width="878px" height="100px" src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/screenshot.gif">
+    <img align="center" width="878px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
     
 </div>
 
