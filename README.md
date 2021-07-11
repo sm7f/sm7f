@@ -5,7 +5,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&langs_count=7&theme=chartreuse-dark&count_private=true"/>
 
 </div>
-<a></a>
+
 
 ### Connect with me:
 <div>
