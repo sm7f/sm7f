@@ -3,7 +3,7 @@
     
 </div>
 
-# **_Olá me chamo Herberth_**
+# **_Olá, meu nome é Herberth_**
 <div>
     <a href=https://github.com/sm7f>
     <img botton="150em"  src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
