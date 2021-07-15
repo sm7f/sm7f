@@ -7,10 +7,10 @@
 <div>
     <a href=https://github.com/sm7f>
     <img botton="150em"  src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <tr>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&count_private=true&layout=compact&langs_count=10&theme=chartreuse-dark"/>
-    </tr>
 </div>
+
+## My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&theme=chartreuse-dark&count_private=true&layout=compact&langs_count=10")
 
 
 ### Connect with me:
