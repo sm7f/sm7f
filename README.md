@@ -10,7 +10,7 @@
 </div>
 
 ## My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&theme=chartreuse-dark&count_private=true&layout=compact&langs_count=10")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&theme=chartreuse-dark&layout=compact&langs_count=10&count_private=true")
 
 
 ### Connect with me:
