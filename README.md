@@ -6,7 +6,7 @@
 # **_Olá, meu nome é Herberth_**
 <div>
     <a href=https://github.com/sm7f>
-    <img height="100px" width="878"  src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="200px" width="878"  src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## My Stats
