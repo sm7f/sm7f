@@ -7,9 +7,10 @@
 <div>
     <a href=https://github.com/sm7f>
     <img bottom="150em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img bottom="150em" src="https://github.com/smf7/github-readme-stats"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&theme=chartreuse-dark&layout=compact&langs_count=10")
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sm7f)]
+
 </div>
 
 ### Connect with me:
