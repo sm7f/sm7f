@@ -6,12 +6,10 @@
 # **_Olá, meu nome é Herberth_**
 <div>
     <a href=https://github.com/sm7f>
-    <img height="200px" width="878"  float="right"src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</div>
+    <img bottom="150em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
-## My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&theme=chartreuse-dark&layout=compact&langs_count=10&count_private=true")
-
+</div>
 
 ### Connect with me:
 <div>
