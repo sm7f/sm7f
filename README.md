@@ -9,7 +9,7 @@
     <img bottom="150em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&theme=chartreuse-dark&layout=compact&langs_count=10")
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smf7)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smf7)]
 </div>
 
 ### Connect with me:
