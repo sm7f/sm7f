@@ -35,7 +35,7 @@
 ######            |||
 
 <div>
-    <img width="500px" src= "https://komarev.com/ghpvc/?username=sm7f&color=green&style=flat-square" />
+    <img width="100px" src= "https://komarev.com/ghpvc/?username=sm7f&color=green&style=flat-square" />
 </div>
 
 
