@@ -32,3 +32,10 @@
     <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div>
 
+<div>
+
+    ![](https://komarev.com/ghpvc/?username=sm7f&color=green&style=flat-square)
+
+</div>
+
+
