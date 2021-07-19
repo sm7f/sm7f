@@ -3,7 +3,7 @@
     
 </div>
 
-# **_Olá, meu nome é Herberth_**
+# **_Olá, meu nome é Herberth_** <img width="100px" src= "https://komarev.com/ghpvc/?username=sm7f&color=green&style=flat-square" />
 <div>
     <a href=https://github.com/sm7f>
     <img bottom="150em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -32,10 +32,8 @@
     <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div>
 
-######            |||
 
-<div>
-    <img width="100px" src= "https://komarev.com/ghpvc/?username=sm7f&color=green&style=flat-square" />
-</div>
+    
+
 
 
