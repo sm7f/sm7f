@@ -19,7 +19,7 @@
 
 </div>
 
-### Connect with me:
+### CONTATO:
 <div>
     </a>
     <a href="https://www.instagram.com/heberthamorim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
