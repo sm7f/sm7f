@@ -1,5 +1,8 @@
 <div>
     <img align="center" width="878px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
+    <img align="center" width="878px" height="100px" src="https://c.tenor.com/MpW1X2C-byAAAAAM/dark-souls3-dancing.gif">
+    <img align="center" width="878px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
+    <img align="center" width="878px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
     
 </div>
 
