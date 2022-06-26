@@ -1,11 +1,11 @@
 <div>
-    <img align="center" width="878px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
+    <img align="center" width="878px" height="100px" src="https://tenor.com/view/berserk-gif-gif-22174445">
     <img align="center" width="878px" height="100px" src="https://c.tenor.com/MpW1X2C-byAAAAAM/dark-souls3-dancing.gif">
     <img align="center" width="878px" height="100px" src="https://c.tenor.com/OUMChBGiC-wAAAAC/komi-trembling.gif">
-    <img align="center" width="878px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
-    <img align="center" width="878px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
-    <img align="center" width="878px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
-    <img align="center" width="878px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
+    <img align="center" width="878px" height="100px" src="https://c.tenor.com/_Ty5Q5UrjdMAAAAC/dark-souls-dance.gif">
+    <img align="center" width="878px" height="100px" src="https://c.tenor.com/zq8XSk1DeCYAAAAC/dark-souls-dance.gif">
+    <img align="center" width="878px" height="100px" src="https://c.tenor.com/vkygyDIPel0AAAAC/guts-berserk.gif">
+    <img align="center" width="878px" height="100px" src="https://c.tenor.com/jL0nHlu13AsAAAAC/komi-komi-san.gif">
     
 </div>
 
