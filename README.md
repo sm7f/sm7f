@@ -1,5 +1,5 @@
 <div>
-    <img align="center" width="878px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
+    <img align="center" width="100px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
     <img align="center" width="878px" height="100px" src="https://c.tenor.com/MpW1X2C-byAAAAAM/dark-souls3-dancing.gif">
     <img align="center" width="878px" height="100px" src="https://c.tenor.com/OUMChBGiC-wAAAAC/komi-trembling.gif">
     <img align="center" width="878px" height="100px" src="https://c.tenor.com/_Ty5Q5UrjdMAAAAC/dark-souls-dance.gif">
