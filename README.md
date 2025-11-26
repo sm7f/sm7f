@@ -1,51 +1,56 @@
-<div>
-    <img align="center" width="100px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/MpW1X2C-byAAAAAM/dark-souls3-dancing.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/OUMChBGiC-wAAAAC/komi-trembling.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/_Ty5Q5UrjdMAAAAC/dark-souls-dance.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/zq8XSk1DeCYAAAAC/dark-souls-dance.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/vkygyDIPel0AAAAC/guts-berserk.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/jL0nHlu13AsAAAAC/komi-komi-san.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/7KTms42M9RUAAAAC/berserk-guts.gif">
-    
+<div align="center">
+    <img width="120px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
+    <img width="120px" src="https://c.tenor.com/MpW1X2C-byAAAAAM/dark-souls3-dancing.gif">
+    <img width="120px" src="https://c.tenor.com/OUMChBGiC-wAAAAC/komi-trembling.gif">
 </div>
 
-# **_Olá, meu nome é Herberth_** <img width="100px" src= "https://komarev.com/ghpvc/?username=sm7f&color=green&style=flat-square" />
-<div>
-    <a href=https://github.com/sm7f>
-    <img bottom="150em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
+# Olá, eu sou o **Herberth**  
+<img width="140px" src="https://komarev.com/ghpvc/?username=sm7f&color=green&style=flat-square"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&theme=chartreuse-dark&layout=compact&langs_count=9")
+Sou desenvolvedor com foco em Python, JavaScript/TypeScript e frameworks modernos. Atuo também como QA tester e analista de requisitos, combinando visão técnica com pensamento crítico para entregar soluções de qualidade.
 
+---
+
+## Estatísticas
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&langs_count=9&theme=chartreuse-dark"/>
 </div>
 
-### CONTATO:
+---
+
+## Contato
+
 <div>
+    <a href="https://www.instagram.com/heberthamorim/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/heberthamorim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a> 
-    <a href="https://www.linkedin.com/in/herberth-amorim-6883321a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00bce4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://twitter.com/home" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-    <a href="https://www.youtube.com/channel/UCpKC6cfaRhoKr2k966yCf1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    <a href="https://www.linkedin.com/in/herberth-amorim-6883321a0/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-00bce4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://twitter.com/home" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCpKC6cfaRhoKr2k966yCf1w" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    </a>
 </div>
 
-### Languages and Tools:
+---
+
+## Linguagens e Ferramentas
 
 <div>
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    <img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img align="left" alt="NextJs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-    <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
-    <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="left" alt="TailWindCss" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
-    <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
-    <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>    
+    <img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"/>
+    <img alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img alt="Next.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+    <img alt="Angular" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
+    <img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+    <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img alt="TailwindCSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+    <img alt="Sass" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+    <img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
 </div>
-
-
-    
-
-
-
