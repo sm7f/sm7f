@@ -14,8 +14,6 @@
 # Olá, eu sou o **Herberth**  
 <img width="140px" src="https://komarev.com/ghpvc/?username=sm7f&color=green&style=flat-square"/>
 
-Sou desenvolvedor com foco em Python, JavaScript/TypeScript e frameworks modernos. Atuo também como QA tester e analista de requisitos, combinando visão técnica com pensamento crítico para entregar soluções de qualidade.
-
 ---
 
 ## Estatísticas
