@@ -1,8 +1,15 @@
-<div align="center">
-    <img width="120px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
-    <img width="120px" src="https://c.tenor.com/MpW1X2C-byAAAAAM/dark-souls3-dancing.gif">
-    <img width="120px" src="https://c.tenor.com/OUMChBGiC-wAAAAC/komi-trembling.gif">
+<div>
+    <img align="center" width="100px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
+    <img align="center" width="100px" height="100px" src="https://c.tenor.com/MpW1X2C-byAAAAAM/dark-souls3-dancing.gif">
+    <img align="center" width="100px" height="100px" src="https://c.tenor.com/OUMChBGiC-wAAAAC/komi-trembling.gif">
+    <img align="center" width="100px" height="100px" src="https://c.tenor.com/_Ty5Q5UrjdMAAAAC/dark-souls-dance.gif">
+    <img align="center" width="100px" height="100px" src="https://c.tenor.com/zq8XSk1DeCYAAAAC/dark-souls-dance.gif">
+    <img align="center" width="100px" height="100px" src="https://c.tenor.com/vkygyDIPel0AAAAC/guts-berserk.gif">
+    <img align="center" width="100px" height="100px" src="https://c.tenor.com/jL0nHlu13AsAAAAC/komi-komi-san.gif">
+    <img align="center" width="100px" height="100px" src="https://c.tenor.com/7KTms42M9RUAAAAC/berserk-guts.gif">
+    
 </div>
+
 
 # Olá, eu sou o **Herberth**  
 <img width="140px" src="https://komarev.com/ghpvc/?username=sm7f&color=green&style=flat-square"/>
