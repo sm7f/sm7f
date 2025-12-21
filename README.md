@@ -20,7 +20,10 @@
 
 
 ### 🧠 TryHackMe
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/HerberthAmorim.png)](https://tryhackme.com/p/HerberthAmorim)
+<a href="https://tryhackme.com/p/Sm7F">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Sm7F.png" alt="TryHackMe Badge">
+</a>
+
 
 
 
