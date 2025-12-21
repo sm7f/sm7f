@@ -17,10 +17,10 @@
 ---
 
 ## Estatísticas
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6265970" style='border:none;'></iframe>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6265970" style='border:none;'></iframe>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&langs_count=9&theme=chartreuse-dark"/>
 </div>
