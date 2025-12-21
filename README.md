@@ -18,9 +18,10 @@
 
 ## Estatísticas
 
-<a href="https://tryhackme.com/p/HerberthAmorim">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/HerberthAmorim.png" alt="TryHackMe Badge">
-</a>
+
+### 🧠 TryHackMe
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/HerberthAmorim.png)](https://tryhackme.com/p/HerberthAmorim)
+
 
 
 <div align="center">
