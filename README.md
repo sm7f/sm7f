@@ -20,16 +20,15 @@
 
 
 ### 🧠 TryHackMe
-<p align="center">
+<div align="center">
   <a href="https://tryhackme.com/p/Sm7F">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Sm7F.png" width="300" alt="TryHackMe Badge">
   </a>
-</p>
+</div>
 
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&langs_count=9&theme=chartreuse-dark"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&langs_count=9&theme=chartreuse-dark"/>
 </div>
 
 ---
@@ -39,9 +38,6 @@
 <div>
     <a href="https://www.linkedin.com/in/herberth-amorim-6883321a0/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-00bce4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://twitter.com/home" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
     <a href="https://www.youtube.com/channel/UCpKC6cfaRhoKr2k966yCf1w" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -60,7 +56,6 @@
     <img alt="Angular" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
     <img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
     <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img alt="TailwindCSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
     <img alt="Sass" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
     <img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
 </div>
