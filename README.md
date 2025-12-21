@@ -37,9 +37,6 @@
 ## Contato
 
 <div>
-    <a href="https://www.instagram.com/heberthamorim/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
     <a href="https://www.linkedin.com/in/herberth-amorim-6883321a0/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-00bce4?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
