@@ -20,15 +20,12 @@
 
 
 ### 🧠 TryHackMe
-<div align="center">
-  <a href="https://tryhackme.com/p/Sm7F">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Sm7F.png" width="300" alt="TryHackMe Badge">
-  </a>
-</div>
 
 <div align="center">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&langs_count=9&theme=chartreuse-dark"/>
+    <a href="https://tryhackme.com/p/Sm7F">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Sm7F.png" width="300" alt="TryHackMe Badge">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&langs_count=9&theme=chartreuse-dark"/>
+    </a>
 </div>
 
 ---
