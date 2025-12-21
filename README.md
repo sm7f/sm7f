@@ -24,7 +24,7 @@
 <div align="center">
     <a href="https://tryhackme.com/p/Sm7F">
         <img src="https://tryhackme-badges.s3.amazonaws.com/Sm7F.png" width="800" alt="TryHackMe Badge">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&langs_count=9&theme=chartreuse-dark"/>
+        <img width="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&langs_count=9&theme=chartreuse-dark"/>
     </a>
 </div>
 
