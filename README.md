@@ -18,8 +18,12 @@
 
 ## Estatísticas
 
+<a href="https://tryhackme.com/p/HerberthAmorim">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/HerberthAmorim.png" alt="TryHackMe Badge">
+</a>
+
+
 <div align="center">
-    [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/HerberthAmorim.png)](https://tryhackme.com/p/HerberthAmorim)
    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=sm7f&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&langs_count=9&theme=chartreuse-dark"/>
