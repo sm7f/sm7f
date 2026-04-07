@@ -80,8 +80,8 @@ Meu trabalho combina desenvolvimento, validação, documentação técnica e lei
 
 ## Estatísticas
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sm7f&show_icons=true&theme=transparent&hide_border=true&title_color=f4f4f5&text_color=c9ccd6&icon_color=c1121f" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&theme=transparent&hide_border=true&title_color=f4f4f5&text_color=c9ccd6" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sm7f&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sm7f&theme=github_dark" />
 
 ---
 
@@ -89,4 +89,3 @@ Meu trabalho combina desenvolvimento, validação, documentação técnica e lei
 
 - LinkedIn: [herberth-amorim-sm7f](https://www.linkedin.com/in/herberth-amorim-sm7f/)
 - TryHackMe: [Sm7F](https://tryhackme.com/p/Sm7F)
-
