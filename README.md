@@ -1,48 +1,92 @@
-<div>
-    <img align="center" width="100px" height="100px" src="https://media.giphy.com/media/3oriNTivEJZ1ASRnMc/giphy.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/MpW1X2C-byAAAAAM/dark-souls3-dancing.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/OUMChBGiC-wAAAAC/komi-trembling.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/_Ty5Q5UrjdMAAAAC/dark-souls-dance.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/zq8XSk1DeCYAAAAC/dark-souls-dance.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/vkygyDIPel0AAAAC/guts-berserk.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/jL0nHlu13AsAAAAC/komi-komi-san.gif">
-    <img align="center" width="100px" height="100px" src="https://c.tenor.com/7KTms42M9RUAAAAC/berserk-guts.gif">
-    
-</div>
+# Herberth Amorim
 
+**Software Engineer com foco em Qualidade e Cybersecurity**
 
-# Olá, eu sou o **Herberth**  
-<img width="140px" src="https://komarev.com/ghpvc/?username=sm7f&color=green&style=flat-square"/>
+Desenvolvimento full stack, APIs, dados, testes, scraping, automação e prática técnica em laboratórios controlados.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herberth-amorim-sm7f/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Sm7F)
+[![GitHub followers](https://img.shields.io/github/followers/sm7f?style=for-the-badge&logo=github&label=GitHub&color=181717)](https://github.com/sm7f)
+
+---
+
+## Sobre
+
+Atuo na construção e evolução de aplicações com foco em:
+
+- desenvolvimento full stack
+- APIs e integração de dados
+- QA técnico e testes end-to-end
+- automação e produtividade com IA
+- Cybersecurity em ambiente controlado
+
+Meu trabalho combina desenvolvimento, validação, documentação técnica e leitura de comportamento para reduzir ruído e transformar execução em entrega mais confiável.
+
+---
+
+## Certificações
+
+- `SEC1`
+- `Google Cybersecurity`
+
+---
+
+## Showcases públicos
+
+### Projetos
+
+- [Big Chock](https://github.com/sm7f/big-chock)  
+  Catálogo online com pedido via WhatsApp, painel operacional, API Express e MongoDB Atlas.
+
+- [TradingDesk](https://github.com/sm7f/tradingdesk)  
+  Dashboard full stack com fluxo de escopo local, GitHub e organização técnica por cards.
+
+- [Nobys Medical](https://github.com/sm7f/nobys-medical)  
+  Landing e páginas de apoio para área médica com foco em conteúdo, contato e apresentação profissional.
+
+- [Para Elohim Showcase](https://github.com/sm7f/para-elohim-showcase)  
+  Site editorial e institucional com foco em artistas, lançamentos, vídeos e presença digital.
+
+- [Fofinhos Showcase](https://github.com/sm7f/fofinhos-showcase)  
+  Ecossistema com PDV desktop em PyQt5 + SQLite e app web de pedidos em React/TypeScript.
+
+### Processo e laboratório
+
+- [Kanban Git Showcase](https://github.com/sm7f/kanban-git-showcase)  
+  Modelo público do meu processo para transformar cards locais em issues, board e conclusão com rastreabilidade.
+
+- [QA Automation Showcase](https://github.com/sm7f/qa-automation-showcase)  
+  Fluxo público de QA com smoke check em `curl`, setup autenticado e cenários E2E em Playwright.
+
+- [Mr. Robot | TryHackMe Showcase](https://github.com/sm7f/mr-robot-tryhackme-showcase)  
+  Showcase técnico da room Mr. Robot com reconhecimento, WordPress, reverse shell, quebra de hash e privilege escalation.
+
+---
+
+## Stack e ferramentas
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Playwright](https://img.shields.io/badge/Playwright-20232A?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Linux](https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
 
 ---
 
 ## Estatísticas
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sm7f&show_icons=true&theme=transparent&hide_border=true&title_color=f4f4f5&text_color=c9ccd6&icon_color=c1121f" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm7f&layout=compact&theme=transparent&hide_border=true&title_color=f4f4f5&text_color=c9ccd6" />
+
 ---
 
 ## Contato
 
-<div>
-    <a href="https://www.linkedin.com/in/herberth-amorim-6883321a0/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-00bce4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCpKC6cfaRhoKr2k966yCf1w" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a>
-</div>
+- LinkedIn: [herberth-amorim-sm7f](https://www.linkedin.com/in/herberth-amorim-sm7f/)
+- TryHackMe: [Sm7F](https://tryhackme.com/p/Sm7F)
 
----
-
-## Linguagens e Ferramentas
-
-<div>
-    <img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"/>
-    <img alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    <img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img alt="Next.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
-    <img alt="Angular" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
-    <img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-    <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img alt="Sass" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
-    <img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-</div>
